@@ -106,26 +106,26 @@ python arrow_game.py
 
 > 此处插入游戏开始界面截图。
 
-![开始界面](screenshots/start.png)
+![开始界面](start.png)
 
 ### 游戏界面
 
 > 此处插入实际游戏运行截图。
 
-![游戏界面](screenshots/game.png)
+![游戏界面](game.png)
 
 ### 通关界面
 
 > 此处插入游戏通关截图。
 
-![通关界面](screenshots/pass.png)
+![通关界面](pass.png)
 
 
 ### 失败界面
 
 > 此处插入游戏失败截图。
 
-![失败界面](screenshots/fail.png)
+![失败界面](fail.png)
 
 ## 7. 项目主要功能
 
